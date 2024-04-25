@@ -11,14 +11,14 @@ I'm a Full Stack Developer based in India, passionate about building robust and 
 
 ### What I'm Currently Learning:
 - Exploring advanced concepts in Neural Networks
-- Improving algorithmic problem-solving skills in C++
+- Building Full Stack Projects and Expanding My Tech Toolkit
 
 ### Fun Fact:
 I believe in continuous learning and always stay updated with the latest trends in technology.
 
 ### Let's Connect!
-- LinkedIn: [Shubh Shubhanjal](https://www.linkedin.com/in/shubh-shubhanjal)
-- Twitter: [@shubh_shubhanjal](https://twitter.com/shubh_shubhanjal)
+- LinkedIn: [Shubh Shubhanjal](https://www.linkedin.com/in/shubh-shubhanjal-06282a257)
+- Twitter: [Shubh Shubhanjal](https://x.com/SShubhanjal?t=g1qNFwEXJi_CnswxXvbOpA&s=09)
 
 ### 📊 GitHub Stats
 
