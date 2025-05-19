@@ -3,7 +3,7 @@
 I'm a Full Stack Developer based in India, passionate about building robust and user-friendly web applications. With a versatile skill set, I enjoy working on both frontend and backend technologies to bring ideas to life. Here's a glimpse of my tech stack:
 
 ### Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL
 - **Programming Languages:** C++, C, Python
